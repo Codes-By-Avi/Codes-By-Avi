@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌷 Hello, I’m Avionne! 🌷  
+# Hello, I’m Avionne!   
 🔊 *Pronounced:* "ah-VEE-on"  
 🌸 Cybersecurity Grad Student • IT Background • Building my Cybersecurity & Digital Portfolio 🌸  
 
