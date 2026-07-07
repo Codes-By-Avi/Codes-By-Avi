@@ -2,21 +2,27 @@
 <h1 align="center">Hi, I'm Avionne 👋🏾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1200&color=00C8FF&center=true&vCenter=true&width=600&lines=Information+Technology+Graduate;Cybersecurity+Master's+Student;Aspiring+Cybersecurity+Professional" />
+  <img src="./pixelme.png" width="180" alt="Pixel art avatar of Avionne">
 </p>
 
 <p align="center">
-  <b>Information Technology Graduate</b> • <b>Cybersecurity Master's Student</b> • <b>Security+ Candidate</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1200&color=00C8FF&center=true&vCenter=true&width=650&lines=Information+Technology+Graduate;Cybersecurity+Master's+Student;Aspiring+Cybersecurity+Professional" />
+</p>
+
+<p align="center">
+  <b>Information Technology Graduate</b> •
+  <b>Cybersecurity Master's Student</b> •
+  <b>Security+ Candidate</b>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👩🏾‍💻 About Me
 
 - 🎓 Bachelor's degree in **Information Technology**
 - 🔐 Currently pursuing a **Master's in Cybersecurity** *(Class of 2026)*
 - 📚 Studying for the **CompTIA Security+** certification
-- 💻 Building projects to strengthen my cybersecurity and software development skills
+- 💻 Building hands-on cybersecurity labs, software projects, and automation tools
 - 🚀 Using GitHub to showcase my academic work, cybersecurity labs, and personal projects
 
 ---
@@ -43,15 +49,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Codes-By-Avi&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codes-By-Avi&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
 ## 🎯 Current Goals
 
 - 🔐 Earn my CompTIA Security+ certification
@@ -64,6 +61,5 @@
 <p align="center">
 <i>Always learning. Always building. Always improving.</i>
 </p>
-```
 
 
