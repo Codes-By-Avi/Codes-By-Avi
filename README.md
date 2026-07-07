@@ -2,10 +2,6 @@
 <h1 align="center">Hi, I'm Avionne 👋🏾</h1>
 
 <p align="center">
-  <img src="./pixelme.png" width="180" alt="Pixel art avatar of Avionne">
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1200&color=00C8FF&center=true&vCenter=true&width=650&lines=Information+Technology+Graduate;Cybersecurity+Master's+Student;Aspiring+Cybersecurity+Professional" />
 </p>
 
